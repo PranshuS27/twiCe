@@ -12,7 +12,7 @@ Robert Nystorm's book https://craftinginterpreters.com/a-map-of-the-territory.ht
 
 ## Technical Stuff
 
-I used a tree walk interpreter, and created a repl for it too. Or you could just use a file if you want but that's not tested
+I used a tree walk interpreter, and created a repl for it too. Or you could just use a file if you want but that's not tested.  Currently supports object orientation and inheritance.
 
 Some stuff it does ![image](https://github.com/PranshuS27/twiCe/assets/139021165/750cb066-ad57-43f8-b082-92f604612a6f)
 
