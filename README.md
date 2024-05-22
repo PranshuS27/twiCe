@@ -7,9 +7,6 @@ Did not make me TT, in fact I CHEERed UP. It's not really Like Ooh Aah though :(
 
 Named twiCe after a very good kpop group :^)
 
-## Credits 
-Robert Nystorm's book https://craftinginterpreters.com/a-map-of-the-territory.html was very helpful, I followed the general layout that he gave, I did try to write most of it myself, and implemented some of the challenges (planning to do the others later)
-
 ## Technical Stuff
 
 I used a tree walk interpreter, and created a repl for it too. Or you could just use a file if you want but that's not tested.  Currently supports object orientation and inheritance.
