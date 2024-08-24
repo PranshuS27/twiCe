@@ -3,9 +3,9 @@
 ## Intro 
 My programming language, written in Java.
 
-Did not make me TT, in fact I CHEERed UP. It's not really Like Ooh Aah though :(
+Did not make me TT, in fact I CHEERed UP.
 
-Named twiCe after a very good kpop group :^)
+Named twiCe after a very good kpop group (not really, it's because I've tried this project twice).
 
 ## Technical Stuff
 
