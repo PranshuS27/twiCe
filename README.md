@@ -1,11 +1,7 @@
 # twiCe
 
 ## Intro 
-My programming language, written in Java.
-
-Did not make me TT, in fact I CHEERed UP.
-
-Named twiCe after a very good kpop group (not really, it's because I've tried this project twice).
+I called it twiCe because this is the second time I've tried this (and also I like the band). Pretty simple and basic but effective.
 
 ## Technical Stuff
 
